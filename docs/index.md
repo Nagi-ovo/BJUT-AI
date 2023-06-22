@@ -1,5 +1,9 @@
 # BJUT-AI
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Nagi-ovo/myIMG/main/front1.png" alt="front" width="600" height="500">
+</div>
+
 ## Preface|引言
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。

@@ -35,17 +35,30 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 如果有对于课程的评价可写在对应课程文件夹的 README.md 中。如果想上传课件（请确保无版权问题），推荐使用 PDF 格式，避免系统差。
 
-#### 下载方式
+## Download|下载方式
 
-![](https://raw.githubusercontent.com/Nagi-ovo/myIMG/main/%E4%B8%8B%E8%BD%BD%E9%A1%B9%E7%9B%AE%E6%8C%87%E5%8D%97.jpg)
+### 1. 手机端
 
-0.本项目的网页端可以提供部分文件下载功能，访问后点击想要的文件链接即可下载到本地
+可前往[工大喵平台](https://xiaoyuancat.com/)，搜索想要的文件按步骤即可下载到本地
+
+### 2. 电脑端
+
+#### a. 下载部分文件
+
+可前往[工大喵平台](https://xiaoyuancat.com/)或者[本项目网页端](https://open-bjut.github.io/BJUT-AI/)，点击相应文件即可下载
+
+#### b. 下载全部文件
+
+<div align="center">
+    <img src="https://s1.ax1x.com/2023/06/22/pCJt8f0.jpg" alt="front" width="500" height="500">
+</div >
 
 1.点击蓝色的 Code 部分；
 
 2.点击 Download ZIP 即可下载到本地
 
 3\*.（可选）若想随时同步本项目，可使用 git clone 本仓库。Git 教程可参考[Git 教程- 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
+
 
 #### 贡献方式
 

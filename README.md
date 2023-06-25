@@ -63,7 +63,9 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 3\*.（可选）若想随时同步本项目，可使用 git clone 本仓库。Git 教程可参考[Git 教程- 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
 
-#### 贡献方式 {#contribute}
+<a id="contribute"></a>
+
+#### 贡献方式
 
 ##### 1. 工大喵平台（跨平台，操作简单）
 

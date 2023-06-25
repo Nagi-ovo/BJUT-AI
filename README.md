@@ -5,7 +5,7 @@
     <img src="https://thatwebsite.oss-cn-hongkong.aliyuncs.com/front1.png" alt="front" width="600" height="500">
 </div>
 
-## Preface|引言
+## Preface | 引言
 
 来到一所大学，从第一次接触许多课，直到一门一门完成，这个过程中我们时常收集起许多资料和情报。
 
@@ -19,7 +19,7 @@
 
 我希望只要是前人走过的弯路，后人就不必再走。这是我的信念，也是我建立这个项目的原因。
 
-## Contribution|贡献
+## Contribution | 贡献
 
 欢迎贡献！
 
@@ -38,7 +38,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 有志参与的同学请阅读我们的[贡献方式](#contribute)
 
-## Download|下载方式
+## Download | 下载方式
 
 ### 1. 手机端
 
@@ -65,7 +65,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 <a id="contribute"></a>
 
-## Guidelines|贡献方式
+## Guidelines | 贡献方式
 
 ### 1. 工大喵平台（跨平台，操作简单）
 
@@ -93,13 +93,13 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 - 或者也可以直接附加在 Issue 中，由维护者进行添加。
 - 添加微信 Nag12333，由维护者进行/帮助添加。
 
-## Reminder|提醒
+## Reminder | 提醒
 
 提交前，建议（在备份完成后）先删除你的项目，重新 fork 、上传并重新提交 PR
 
 对 git 熟悉的话另说。
 
-## License|许可
+## License | 许可
 
 资料来自网络，相关权利仍由原作者所有，本项目仅用于收集现有资料。
 
@@ -109,7 +109,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！
 
 由于资料来源复杂，如果收录的资料侵犯了您的著作权，请发起 issue（未来将加入更多联系方式），我们将立即停止使用您的资料。
 
-## Related Works|其它项目
+## Related Works | 其它项目
 
 - [北京工业大学课程资源共享计划](https://github.com/Nagi-ovo/BJUT-Helper)
 - [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)

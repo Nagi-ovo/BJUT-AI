@@ -1,9 +1,11 @@
+
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
 import os
 from urllib.parse import quote
 
-EXCLUDE_DIRS = ['.git', 'docs', '.vscode', '.circleci', 'site','.github']
+EXCLUDE_DIRS = ['.git', 'docs', '.vscode', '.circleci', 'site']
 README_MD = ['README.md', 'readme.md', 'index.md']
 
 TXT_EXTS = ['md', 'txt']
@@ -11,10 +13,11 @@ TXT_URL_PREFIX = 'https://github.com/Open-BJUT/BJUT-AI/blob/master/'
 BIN_URL_PREFIX = 'https://github.com/Open-BJUT/BJUT-AI/raw/master/'
 
 
+
 def list_files(course: str):
     filelist_texts = '## 文件列表\n\n'
     readme_path = ''
-    for root, dirs, files in os.walk('./' + course):
+    for root, dirs, files in os.walk(course):
         files.sort()
         level = root.replace(course, '').count(os.sep)
         indent = ' ' * 4 * level
@@ -36,9 +39,9 @@ def list_files(course: str):
 def generate_md(course: str, filelist_texts: str, readme_path: str):
     final_texts = ['\n\n', filelist_texts]
     if readme_path:
-        with open(readme_path, 'r', encoding='utf-8') as file:
+        with open(readme_path, 'r') as file:
             final_texts = file.readlines() + final_texts
-    with open('docs/{}.md'.format(course), 'w', encoding='utf-8') as file:
+    with open('docs/{}.md'.format(course), 'w') as file:
         file.writelines(final_texts)
 
 
@@ -53,8 +56,8 @@ if __name__ == '__main__':
         filelist_texts, readme_path = list_files(course)
         generate_md(course, filelist_texts, readme_path)
 
-    with open('README.md', 'r', encoding='utf-8') as file:
+    with open('README.md', 'r') as file:
         mainreadme_lines = file.readlines()
 
-    with open('docs/index.md', 'w', encoding='utf-8') as file:
+    with open('docs/index.md', 'w') as file:
         file.writelines(mainreadme_lines)

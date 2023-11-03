@@ -8,6 +8,8 @@
 
 由于我本人对该专业的知识了解有限，建议在这方面主要提供入门级的建议。然而，我们非常欢迎您在学习方法和方向选择方面提供宝贵的建议。
 
+<!-- <span style="color: rgb(240, 240, 240);">我保证在毕业前不会在本文档中加入暴论或抹黑学校名誉的内容。</span> -->
+
 We warmly welcome you to contribute to the editing of this handbook. This organization is a self-initiated collective of students and teachers, aimed at bridging the information gap in the newly established undergraduate major in Artificial Intelligence at Beijing University of Technology. We hope to help incoming freshmen avoid the pitfalls we have experienced.
 
 The handbook will be divided into multiple sections, and we ask that you adhere strictly to the established editing guidelines. You can refer to the [Survival Guide for Shanghai Jiao Tong University](https://survivesjtu.gitbook.io/survivesjtumanual/) as a template. In each major section, please create a new group and add various sub-modules, documents, etc. within it. For example, you may look at the existing section titled "Insights from Guaranteed Graduate Admission" in our project as a reference.

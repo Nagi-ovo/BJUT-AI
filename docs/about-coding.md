@@ -2,9 +2,7 @@
 
 # 关于代码
 
-<div align="center">
-    <img src="https://github.com/Nagi-ovo/BJUT-AI/blob/master/docs/img/AI%3FCS!.png?raw=true" alt = "front" width="500" height="400">
-</div>
+![true dude](./img/AIisCS.png)
 
 > 嘴替，截图自0XFFFF论坛，[原帖](https://0xffff.one/d/329-xiao-bai-guan-yu-ren-zhi-de-yi-xie/3)
 
